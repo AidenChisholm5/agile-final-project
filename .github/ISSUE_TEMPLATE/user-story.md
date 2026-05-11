@@ -1,13 +1,11 @@
 ---
-name: User storu
+name: User story
 about: Template for user story
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-## User Story
 
 **As a** [role]  
 **I need** [function]  
